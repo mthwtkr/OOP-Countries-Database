@@ -1,0 +1,16 @@
+select, form{
+	margin-top: 50px;
+	margin-left: 20px;
+	display: inline-block;
+}
+
+h2{
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	border-bottom-width: 1px;
+}
+
+p{
+	display: inline-block;
+	margin: 0px;
+}
